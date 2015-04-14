@@ -1,0 +1,33 @@
+h1 {
+    color: blue;
+	text-align: center
+}
+h2 {
+	text-align: center;
+}
+h3 {
+	color: orange;
+	text-align: center;
+}
+.Title {
+	background-color: blue;
+    color: orange;
+	font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+}
+.points {
+    font-style: italic;
+	background-color: #DFEAF1;
+	margin-left: auto;
+	margin-right: auto;
+	width: 30%;
+}
+.image {
+	text-align: center
+}
+.p-align{
+	margin-left: auto;
+	margin-right: auto;
+	width: 30%;
+}
